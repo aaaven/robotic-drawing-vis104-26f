@@ -1,4 +1,4 @@
-# Machine Execution and Robotic Drawing
+# Robotic Drawing and Material Exploration
 
 Component 03 of VIS104 · Digital Design I, Weeks 12–15. [Project site](https://www.aven.cc/robotic-drawing-vis104-26f/)
 
